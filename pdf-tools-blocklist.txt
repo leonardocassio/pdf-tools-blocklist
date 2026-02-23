@@ -44,3 +44,10 @@
 ||imagetopdf.com^
 ||pdftojpg.com^
 ||pdftoexcel.com^
+||luminpdf.comˆ
+||youpdf.comˆ
+||pdffiller.comˆ
+||pdf.ioˆ
+||xodo.comˆ
+||xodo.comˆ
+||cleverpdf.comˆ
